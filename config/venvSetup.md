@@ -28,6 +28,10 @@ python -m venv fiscam
 source fiscam/Scripts/activate.bat
 pip install --upgrade pip
 ```
+## May have to install microsoft C++ build tools
+```bash
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+```
 
 ---
 # Install req.txt
