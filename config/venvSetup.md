@@ -24,14 +24,14 @@ check install worked with ```conda --version```
 # Windows Setup
 
 ```bash
-py -m venv fiscam
-source fiscam/Scripts/activate
+python -m venv fiscam
+source fiscam/Scripts/activate.bat
 pip install --upgrade pip
 ```
 
 ---
 # Install req.txt
-```python -m pip install -r ./requirements.txt``` <br>
+```python -m pip install -r ..\config\requirements.txt``` <br>
 
 
 ## Run Root Scripts
